@@ -1,0 +1,47 @@
+{
+  "req-courses": {
+    "CSC": [
+      {
+        "course_code": "CSC 1200",
+        "name": "Functional Programming I",
+        "credits": "3"
+      },
+
+      {
+        "course_code": "CSC 2290",
+        "name": "Discrete Mathematical Structures",
+        "credits": "3"
+      },
+
+      {
+        "course_code": "CSC 2350",
+        "name": "Object-Oriented Programming and Design",
+        "credits": "3"
+      },
+
+      {
+        "course_code": "CSC 2430",
+        "name": "Design and Analysis of Algorithms",
+        "credits": "3"
+      },
+
+      {
+        "course_code": "CSC 2440",
+        "name": "Data Structures",
+        "credits": "4"
+      },
+
+      {
+        "course_code": "CSC 4600",
+        "name": "Internship I",
+        "credits": "3"
+      },
+
+      {
+        "course_code": "CSC 4900",
+        "name": "Capstone Seminar",
+        "credits": "3"
+      }
+    ]
+  }
+}
